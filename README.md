@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on password generator in python<br>🤝 I’m looking for help with finding a job in Denmark<br>🌱 I’m currently learning back-end development
+🔭 I’m currently working on password generator in python<br>🌱 I’m currently learning back-end development
 
 
 ## 🌐 Socials:
